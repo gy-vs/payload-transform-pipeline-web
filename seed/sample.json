@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-2026-0920",
+  "customer": {
+    "first_name": "Ada",
+    "last_name": "Lovelace",
+    "email": "ada@example.com"
+  },
+  "tags": "vip,early-access,analytics",
+  "tagList": [],
+  "items": [
+    {"sku": "A-100", "name": "Analytical Engine Kit", "price_cents": 129900, "qty": 1},
+    {"sku": "B-220", "name": "Punch Card Pack", "price_cents": 4500, "qty": 12},
+    {"sku": "C-303", "name": "Loom Attachment", "price_cents": 31250, "qty": 2},
+    {"sku": "D-414", "name": "Carry Mechanism", "price_cents": 8900, "qntity": 3},
+    {"sku": "E-555", "name": "Notebook", "price_cents": 1500, "qty": 5}
+  ],
+  "shipping": {
+    "line1": "17 Albemarle St",
+    "city": "London",
+    "postcode": null
+  }
+}
